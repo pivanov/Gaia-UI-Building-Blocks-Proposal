@@ -1,0 +1,15 @@
+/*
+ * Skin Organic
+ */
+
+.skin-organic {
+  --header-font-color: #868692;
+  --header-link-color: #00AAC5;
+  --header-action-hover-active-state-background-color: rgba(0, 0, 0, .07);
+  --header-background-color: var(--base-color-iota);
+
+  --subheader-font-color: var(--base-color-gamma);
+  --subheader-border-color: transparent;
+  --subheader-background-color: var(--base-color-theta);
+}
+
